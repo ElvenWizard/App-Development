@@ -1,0 +1,6 @@
+**Instructions**
+1. install python 3.10
+2. run windows cmd as administrator
+3. type "pip3 install beautifulsoup4"
+4. after first installation is done, repeat with "pip3 install requests"
+5. once instalations are done, run "RandomWikiGen.py"
